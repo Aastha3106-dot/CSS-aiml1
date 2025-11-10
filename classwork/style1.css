@@ -1,0 +1,15 @@
+
+div{
+    text-align: center;
+    border: 5px solid black;
+}
+#blue{
+    background-color: lightblue;
+    display: block;
+    text-align: center;
+}
+#green{
+    background-color: greenyellow;
+    display: block;
+    text-align: center;
+}

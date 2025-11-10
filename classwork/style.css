@@ -1,0 +1,21 @@
+p{
+    color:pink;
+    background-color: black;
+    text-align: center;
+}
+.p{
+    color:greenyellow;
+    background-color: green;
+}
+#jk{
+    font-size: 25px;
+}
+div{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(124, 13, 227);
+    padding: 20px;
+    /* solid border, dotted border, double border,*/
+    border:10px solid black;
+    margin:50px;
+}
