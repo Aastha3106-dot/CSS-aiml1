@@ -1,0 +1,12 @@
+.container{
+    
+    width: 500px;
+    height: 600px;
+    margin: 35px;
+    border: 2px solid black;
+    vertical-align: center;
+
+}
+h1{
+    margin-left: 20px;
+}
