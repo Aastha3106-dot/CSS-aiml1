@@ -21,7 +21,7 @@
     text-align:center;
     align-content:center;
     justify-content: center;
-    align-content: center;
+    align-content: start;
 }
 /*.item1{
     grid-area:header;
@@ -38,5 +38,9 @@
 /*grid -template- rows and grid-template-columns*\
 /*justify items-horizontal movement (start, end , center, stretch)*/
 /*align items-vertical movement (start, end, center, stretch)
-justify content(start,end,cneter,stretch,space around,space between , space evenly)
+justify content(start,end,center,stretch,space around,space between , space evenly)
 align content(start,end,center,stretch ,space around,space between,space evenly)
+place content(for both justify and align)
+grid-auto-flow
+justify-self(for a particular child)
+align-self(for a particular child)
